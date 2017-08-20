@@ -1,2 +1,2 @@
-# Codewars-solutions
-https://www.codewars.com 
+#  JavaScript Codewars-solutions
+https://www.codewars.com/users/Anaszkyl
